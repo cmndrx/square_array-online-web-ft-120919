@@ -1,5 +1,5 @@
 def square_array(array)
   array = []
-  new_numbers = square(array)
+  array.each
   array.inject(new_numbers)
 end
