@@ -1,5 +1,5 @@
 def square_array(array)
   array = []
-  array.each
-  array.inject(new_numbers)
+  array.each |number|
+  
 end
